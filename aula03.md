@@ -4,7 +4,7 @@
 
 Adicionando arquivo para visualização de logs.
 
-1. Adicione o conteúdo abaixo no arquivo `pom.xml`:
+1. Adicione o conteúdo abaixo no arquivo `application.properties`:
 
 ```properties
 logging.level.root = INFO
